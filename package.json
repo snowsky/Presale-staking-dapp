@@ -78,7 +78,7 @@
     "truffle-plugin-verify": "^0.5.15",
     "uniswap-price": "^1.0.4",
     "web-vitals": "^1.0.1",
-    "web3": "^1.6.0",
+    "web3": "^4.0.1",
     "webpack": "^4.44.0"
   },
   "devDependencies": {
